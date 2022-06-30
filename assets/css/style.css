@@ -479,18 +479,23 @@ p {
 
 .read {
     border-radius: 3rem;
-    border: 1px solid black;
+    border: 1px solid #f8395d;
     padding: 10px 20px;
     display: inline-block;
     margin-left: 3rem;
     margin-top: 
     3rem;
-    color: black;
+   
+
+    background-color: #f8395d; 
+    color: white;
 }
 
 .read:hover {
- background-color: #f8395d; 
- color: white;
+
+    color: black;
+    background-color: white;
+   
 }
 
 
