@@ -31,14 +31,24 @@ ul {
 
 }
 
+.left_text p{
+    padding-left: 0px;
+}
+
+#paragraph{
+    padding-left: 0px;
+}
+
 
 li {
     display: inline-block;
 }
+
 #para_com {
     padding: 0px;
     margin-top: 5px;
 }
+
 a {
     text-decoration: none;
     margin-left: 20px;
@@ -486,11 +496,11 @@ p {
     padding: 10px 20px;
     display: inline-block;
     margin-left: 3rem;
-    margin-top: 
-    3rem;
-   
+    margin-top:
+        3rem;
 
-    background-color: #f8395d; 
+
+    background-color: #f8395d;
     color: white;
 }
 
@@ -498,11 +508,11 @@ p {
 
     color: black;
     background-color: white;
-   
+
 }
 
 
-.sec11_div{
+.sec11_div {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -511,14 +521,13 @@ p {
     margin-top: 5rem;
 }
 
-.sec11_heading{
+.sec11_heading {
 
     color: #f8395d;
     font-size: 3rem;
 }
 
-.sec11_build
-{
+.sec11_build {
     background-color: #f8395d;
     color: white;
     width: 10rem;
@@ -530,31 +539,30 @@ p {
 }
 
 
-.sec11_build:hover
-{
+.sec11_build:hover {
     color: #f8395d;
     background-color: white;
 }
 
 
-.sec12_div{
+.sec12_div {
 
     margin-top: 4rem;
 }
-.sec12_subdiv{
+
+.sec12_subdiv {
     width: 50%;
     margin-left: 10%;
     margin-right: 40%;
 }
 
-.sec12_subdiv p
-{
- padding: 0px;
- margin-top: 30px;
- padding-right: 80px;
+.sec12_subdiv p {
+    padding: 0px;
+    margin-top: 30px;
+    padding-right: 80px;
 }
 
-.container{
+.container {
     background-color: black;
     opacity: 0.5;
     display: flex;
@@ -564,20 +572,21 @@ p {
     margin-top: 4rem;
 }
 
-.sec_left h4{
+.sec_left h4 {
     color: white;
     text-align: center;
 }
 
-.sec_right ul{
+.sec_right ul {
     padding: 0px;
 
 }
 
-#footer_ul a:hover{
+#footer_ul a:hover {
     color: #fa133e;
 }
-.left img{
+
+.left img {
     border-radius: 10px;
 }
 
@@ -596,13 +605,15 @@ p {
     background-color: transparent;
     box-shadow: 0px 5px 15px -5px #696969;
     overflow: hidden;
-    
+
 }
+
 .middle a i {
     transition: 0.1s linear;
 }
+
 .middle a:hover {
-    
+
     background-color: #f8395d;
     color: white;
     transition: 1s linear;
