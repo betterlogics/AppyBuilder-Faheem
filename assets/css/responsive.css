@@ -204,8 +204,15 @@
         width: 100%;
     }
 
-    .sec12_subdiv p {
+    .sec12_subdiv p,h1 {
         padding: 0px;
+
+        padding-left: 9px;
+        padding-right: 9px;
+    }
+
+    .middle{
+        text-align: center;
     }
 }
 
