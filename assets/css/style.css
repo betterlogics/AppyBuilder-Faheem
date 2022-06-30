@@ -35,7 +35,10 @@ ul {
 li {
     display: inline-block;
 }
-
+#para_com {
+    padding: 0px;
+    margin-top: 5px;
+}
 a {
     text-decoration: none;
     margin-left: 20px;
