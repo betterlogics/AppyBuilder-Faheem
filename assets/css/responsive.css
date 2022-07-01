@@ -102,6 +102,10 @@
         margin-left: 20px;
     }
 
+    .upper_right1 {
+        margin-right: 20px;
+    }
+
     .sec6_main_div {
         flex-direction: column;
     }
@@ -187,13 +191,20 @@
         align-self: center;
         vertical-align: middle;
         margin-top: 4rem;
+        display: flex;
+    flex-direction: column;
     }
 
 
     .read {
         margin-top: 1rem;
+        margin: 3rem;
     }
 
+    .ptanikosni{
+        text-align:center;
+        padding: 2.5rem;
+    }
 
     .sec10_right {
         width: 100%;
@@ -209,6 +220,9 @@
 
         padding-left: 9px;
         padding-right: 9px;
+    }
+    .sec12_subdiv p {
+        text-align: center;
     }
 
     .middle{

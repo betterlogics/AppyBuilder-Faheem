@@ -255,7 +255,10 @@ a:hover {
 }
 
 .upper_right {
-    margin-top: 33px;
+    margin-top: 35px;
+}
+.upper_right1 {
+    margin-top: 35px;
 }
 
 
@@ -472,6 +475,7 @@ a:hover {
     overflow: hidden;
     align-self: center;
     vertical-align: middle;
+    
 }
 
 
@@ -554,12 +558,17 @@ p {
     width: 50%;
     margin-left: 10%;
     margin-right: 40%;
+
+    /* text-align: justify; */
+    
 }
 
 .sec12_subdiv p {
     padding: 0px;
     margin-top: 30px;
     padding-right: 80px;
+   
+    
 }
 
 .container {
